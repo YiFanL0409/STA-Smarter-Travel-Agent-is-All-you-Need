@@ -1,0 +1,7 @@
+openai>=1.0.0
+gradio>=4.0.0
+langchain-openai>=0.1.0
+python-dotenv>=1.0.0
+langgraph>=0.1.0
+langchain-mcp-adapter>=0.1.0
+
